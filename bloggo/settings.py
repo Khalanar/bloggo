@@ -30,7 +30,6 @@ DEBUG = False
 
 ALLOWED_HOSTS = ["mb2test.herokuapp.com", "localhost"]
 
-X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 # Application definition
 
